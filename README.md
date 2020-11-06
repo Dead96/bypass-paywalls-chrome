@@ -78,6 +78,7 @@
 [History Extra](https://www.historyextra.com)\
 [Humo](https://www.humo.be)\
 [Il Manifesto](https://www.ilmanifesto.it)\
+[Il Secolo XIX](https://www.ilsecoloxix.it)\
 [Inc.com](https://www.inc.com)\
 [Interest.co.nz](https://www.interest.co.nz)\
 [Investors Chronicle](https://www.investorschronicle.co.uk)

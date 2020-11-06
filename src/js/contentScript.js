@@ -502,6 +502,11 @@ if (matchDomain('elmercurio.com')) {
   const adBlock = document.getElementById('ad-article-inline');
   const adHeader = document.getElementById('sticky-ad-header');
   removeDOMElement(block, adBlock, adHeader);
+} else if (matchDomain('ilsecoloxix.it')) {
+  const article = document.querySelector('#article-body');
+  if (article) { article.removeAttribute('style'); }
+  const paywall = document.querySelector('.paywall-adagio');
+  removeDOMElement(paywall);
 }
 
 function matchDomain (domains) {

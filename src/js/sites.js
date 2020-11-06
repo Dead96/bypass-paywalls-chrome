@@ -53,6 +53,7 @@ const defaultSites = {
   'History Extra': 'historyextra.com',
   'Humo': 'humo.be',
   'Il Manifesto': 'ilmanifesto.it',
+  'Il Secolo XIX': 'ilsecoloxix.it',
   'Inc.com': 'inc.com',
   'Interest NZ': 'interest.co.nz',
   'Investors Chronicle': 'investorschronicle.co.uk',
